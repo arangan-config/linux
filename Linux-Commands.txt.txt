@@ -1,0 +1,7 @@
+
+# Source of HTML on clipboard
+
+xclip -selection clipboard -t text/html -o 
+
+
+
